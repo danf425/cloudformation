@@ -61,6 +61,18 @@
             },
             "Description": "URL for website hosted on S3"
         },
+        {
+        "valuesoutput1": {
+            "Value": "helmvalue1"
+        },
+        {
+        "valuesoutput2": {
+            "Value": "helmvalue2"
+        },
+        {
+        "valuesoutput3": {
+            "Value": "helmvalue3"
+        },
         "S3BucketSecureURL": {
             "Value": {
                 "Fn::Join": [
