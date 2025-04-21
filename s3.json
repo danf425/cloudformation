@@ -63,15 +63,18 @@
         },
         {
         "valuesoutput1": {
-            "Value": "helmvalue1"
+            "Value": "helmvalue1",
+            "Description": "Name of S3 bucket helmvalue1"
         },
         {
         "valuesoutput2": {
-            "Value": "helmvalue2"
+            "Value": "helmvalue2",
+            "Description": "Name of S3 bucket helmvalue2"
         },
         {
         "valuesoutput3": {
-            "Value": "helmvalue3"
+            "Value": "helmvalue3",
+            "Description": "Name of S3 bucket helmvalue3"
         },
         "S3BucketSecureURL": {
             "Value": {
